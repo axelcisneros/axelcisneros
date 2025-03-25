@@ -6,8 +6,6 @@
   <h3>Con experiencia en tecnologías frontend y backend, integración de CI/CD, y un compromiso con la mejora continua. Mi objetivo es optimizar experiencias digitales, implementar soluciones innovadoras y seguir aprendiendo para entregar resultados de alta calidad.</h3>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axelcisneros&label=Profile%20views&color=0e75b6&style=flat" alt="axelcisneros" /> </p>
-
 - 🔭He trabajado en [King's Nail's](https://king-s-nail-s.vercel.app)
 
 - 🌱 Actualmente estoy aprendiendo **Ingles, tensorflow, typescript, tailwind, reactnative**
