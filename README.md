@@ -1,13 +1,17 @@
 <h1 align="center">Hola 👋, Me llamo Axel Cisneros</h1>
 <h3 align="center">Soy un desarrollador web enfocado en la creación de aplicaciones modernas</h3>
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/99311637?v=4" alt="Descripción de la imagen" width="200">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axelcisneros&label=Profile%20views&color=0e75b6&style=flat" alt="axelcisneros" /> </p>
 
 - 🔭He trabajado en [King's Nail's](https://king-s-nail-s.vercel.app)
 
 - 🌱 Actualmente estoy aprendiendo **Ingles, tensorflow, typescript, tailwind, reactnative**
 
-- 💬 Preguntame **React, html, css, javascript, nodejs,mongodb**
+- 💬 Preguntame **React, html, css, javascript, nodejs, mongodb**
 
 - 📫 Contactame **axel.cisneros25@hotmail.com**
 
