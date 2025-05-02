@@ -2,7 +2,7 @@
 <h3 align="center">Soy un desarrollador web enfocado en la creación de aplicaciones modernas</h3>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/99311637?v=4" alt="Descripción de la imagen" width="200">
+  <img src="https://avatars.githubusercontent.com/u/99311637?v=4" alt="Descripción de la imagen" width="100">
   <h3>Con experiencia en tecnologías frontend y backend, integración de CI/CD, y un compromiso con la mejora continua. Mi objetivo es optimizar experiencias digitales, implementar soluciones innovadoras y seguir aprendiendo para entregar resultados de alta calidad.</h3>
 </div>
 
